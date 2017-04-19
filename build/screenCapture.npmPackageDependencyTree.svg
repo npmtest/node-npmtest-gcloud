@@ -314,7 +314,7 @@
 <tspan x="10" y="4986">  │ ├─┬ form-data@2.1.4 </tspan>
 <tspan x="10" y="5002">  │ │ └── asynckit@0.4.0 </tspan>
 <tspan x="10" y="5018">  │ ├─┬ har-validator@4.2.1 </tspan>
-<tspan x="10" y="5034">  │ │ ├─┬ ajv@4.11.6 </tspan>
+<tspan x="10" y="5034">  │ │ ├─┬ ajv@4.11.7 </tspan>
 <tspan x="10" y="5050">  │ │ │ ├── co@4.6.0 </tspan>
 <tspan x="10" y="5066">  │ │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
 <tspan x="10" y="5082">  │ │ │   └── jsonify@0.0.0 </tspan>
