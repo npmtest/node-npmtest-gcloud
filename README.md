@@ -1,4 +1,7 @@
-# test coverage for  [gcloud (v0.37.2)](https://github.com/googlecloudplatform/gcloud-node#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gcloud.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gcloud) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gcloud.svg)](https://travis-ci.org/npmtest/node-npmtest-gcloud)
+# npmtest-gcloud
+
+#### test coverage for  [gcloud (v0.37.2)](https://github.com/googlecloudplatform/gcloud-node#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gcloud.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gcloud) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gcloud.svg)](https://travis-ci.org/npmtest/node-npmtest-gcloud)
+
 #### Google Cloud APIs Client Library for Node.js
 
 [![NPM](https://nodei.co/npm/gcloud.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gcloud)
